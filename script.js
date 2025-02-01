@@ -1,8 +1,8 @@
 // Дані про лампи
 const products = {
-    "1": { title: "Лампа Модерн", price: "1200 грн", image: "lamp1.jpg" },
-    "2": { title: "Лампа Класика", price: "1400 грн", image: "lamp2.jpg" },
-    "3": { title: "Лампа Лофт", price: "1600 грн", image: "lamp3.jpg" },
+    "1": { title: "Сонячна Лампа", price: "800 грн", image: "lamp1.jpg" },
+    "2": { title: "Pazzle Lamp", price: "600 грн", image: "lamp2.jpg" },
+    "3": { title: "Світло Квіт", price: "600 грн", image: "lamp3.jpg" },
 };
 
 // Відображення товару
